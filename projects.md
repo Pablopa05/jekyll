@@ -17,5 +17,4 @@ Esta es la tercera página, con un párrafo y una lista adicional.
 ## Imagen y enlace final
 
 Explora este [YOUTUBE](https://www.youtube.com).
-
-![Imagen adicional](https://via.placeholder.com/150)
+![Imagen de ejemplo](./bob.jpg)

@@ -17,4 +17,4 @@ En esta página exploraremos algunos ejemplos de HTML en Markdown.
 ## Enlace de ejemplo
 
 Explora este [YOUTUBE](https://www.youtube.com).
-![Otra imagen de ejemplo](https://via.placeholder.com/150)
+![Imagen de ejemplo](./bob.jpg)
