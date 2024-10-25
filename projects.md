@@ -1,13 +1,21 @@
 ---
-layout: default
-title: Projects
+layout: page
+title: "Página 3"
+permalink: /pagina3/
 ---
 
-# Projects
+# Bienvenidos a la Página 3
 
-Here are some of my projects:
+Esta es la tercera página, con un párrafo y una lista adicional.
 
-1. **Project One** - A cool project.
-2. **Project Two** - Another cool project.
+## Lista de tareas
 
-![Project Image](https://via.placeholder.com/150)
+- [ ] Tarea 1
+- [x] Tarea 2 completada
+- [ ] Tarea 3
+
+## Imagen y enlace final
+
+Explora este [YOUTUBE](https://www.youtube.com).
+
+![Imagen adicional](https://via.placeholder.com/150)

@@ -1,16 +1,20 @@
 ---
-layout: default
-title: About
+layout: page
+title: "Página 2"
+permalink: /pagina2/
 ---
 
-# About Me
+# Bienvenidos a la Página 2
 
-This is the **About Me** page.
+En esta página exploraremos algunos ejemplos de HTML en Markdown.
 
-## Things I like:
+## Lista ordenada
 
-- Programming
-- Traveling
-- Music
+1. Primer punto
+2. Segundo punto
+3. Tercer punto
 
-Learn more on [my blog](./blog.md).
+## Enlace de ejemplo
+
+Explora este [YOUTUBE](https://www.youtube.com).
+![Otra imagen de ejemplo](https://via.placeholder.com/150)
